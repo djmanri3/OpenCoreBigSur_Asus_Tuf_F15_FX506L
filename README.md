@@ -1,4 +1,4 @@
-# OpenCoreBigSur_Asus_Tuf_F15_FX506L
+# OpenCoreBigSur_Asus_Tuf_F15_FX506LH-BQ030
 
 # Spects:
 CPU	Intel® Core™ i7-10750H 6 cores
