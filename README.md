@@ -36,12 +36,12 @@ Wifi + Bluetooth
 - When the installation is finished do not panic if it takes a long time to finish or there are reboots, it takes its own time
 
 # Big Sur
-## BUGS:
+### BUGS:
 - AirDrop
 - HDMI and type c screen (This problem comes from the nvidia graphics :( ) (Solved Display Link USB)
 - Audio through the minijack (works but can't be heard correctly) (Solved audio bluetoth)
 
-## WORKING:
+### WORKING:
 - WiFi
 - Bluetoth
 - Power botton
@@ -55,7 +55,7 @@ Wifi + Bluetooth
 - Control of batery
 
 # Monterey
-## BUGS:
+### BUGS:
 - AirDrop
 - HDMI and type c screen (This problem comes from the nvidia graphics :( )
 - Audio through the minijack (works but can't be heard correctly) (Solved audio bluetoth)
@@ -63,7 +63,7 @@ Wifi + Bluetooth
 - Controler of disks (Only view one disk)
 - Trackpad
 
-## WORKING:
+### WORKING:
 - WiFi
 - Bluetoth
 - Power botton
