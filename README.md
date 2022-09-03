@@ -38,7 +38,7 @@ Wifi + Bluetooth
 # Big Sur
 ## BUGS:
 - AirDrop
-- HDMI and type c screen (This problem comes from the nvidia graphics :( )
+- HDMI and type c screen (This problem comes from the nvidia graphics :( ) (Solved Display Link USB)
 - Audio through the minijack (works but can't be heard correctly) (Solved audio bluetoth)
 
 ## WORKING:
